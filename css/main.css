@@ -1,0 +1,49 @@
+* {
+    box: border-box;
+}
+.cow > img{
+    border-radius: 100px;
+    margin: 0 auto;
+    display: block;
+    padding: 20px;
+    top: 50px;
+}
+.card{
+    margin: 0 auto;
+    border-width: 1px;
+    border-color: gray;
+    width: 500px;
+    top: 50px;
+}
+.password-link{
+    float: right !important;
+}
+#continue{
+    background-color: gold !important;
+    font-size: 10px;
+    width: 100%;
+    color: black;
+    border-radius: 0px;
+    border-color: black !important;
+}
+#amazon{
+    margin: 0 auto !important;
+    background-color: lightgrey !important;
+    color: black;
+    border-radius: 0px;
+    border-color: black !important;
+    width: 450px;
+    height: 75%;
+    text-align: center;
+}
+.buttondiv{
+    border-width: 1px;
+    border-color: gray;
+    width: 450px;
+    top: 100px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+ 
+}
+
